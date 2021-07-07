@@ -72,6 +72,12 @@ body {
 }
 
 .attribution{
+    text-align: center;
     font-size: 12px;
+    
+}
+
+.attribution a {
     text-decoration: none;
+    color: purple;
 }
